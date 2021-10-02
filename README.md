@@ -1,2 +1,2 @@
-# CSS
-Meus projetos em CSS feitos no IFFAR
+# C
+Meus projetos em C feitos no IFFAR
