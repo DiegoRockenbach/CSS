@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "1 - IdadeAno.C": "cpp",
+    "1 IdadeAno.C": "cpp"
+  }
+{
+  "files.exclude": {
+      "**/*.exe": true,
+  },
+}
