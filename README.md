@@ -1,2 +1,2 @@
-# C
-Meus projetos em C feitos no IFFAR
+# C_IFFAR
+Meus projetos em C feitos durante meu ensino médio no IFFAR
